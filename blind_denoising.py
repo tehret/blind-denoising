@@ -198,7 +198,7 @@ def blind_denoising(**args):
         if len(curr_frame.shape) < 4:
             curr_frame = np.expand_dims(curr_frame, 0)
             curr_frame = np.expand_dims(curr_frame, 0)
-            curr_frame = normalize(curr_frame)
+            curr_frame = curr_frame/255.
 
         curr_frame_var = Variable(torch.FloatTensor(curr_frame).cuda())
 
