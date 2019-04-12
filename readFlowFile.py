@@ -15,7 +15,7 @@ import os
 
 TAG_FLOAT = 202021.25
 
-def read(file):
+def read_flow(file):
 
 	assert type(file) is str, "file is not str %r" % str(file)
 	assert os.path.isfile(file) is True, "file does not exist %r" % str(file)
