@@ -1,5 +1,3 @@
-/!\ Repository in construction it is not functional just yet
-
 IMPLEMENTATION OF MODEL-BLIND VIDEO DENOISING VIA FRAME-TO-FRAME TRAINING
 =========================================================================
 
