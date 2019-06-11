@@ -1,4 +1,4 @@
-[IMPLEMENTATION OF MODEL-BLIND VIDEO DENOISING VIA FRAME-TO-FRAME TRAINING](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ehret_Model-Blind_Video_Denoising_via_Frame-To-Frame_Training_CVPR_2019_paper.pdf)
+IMPLEMENTATION OF [MODEL-BLIND VIDEO DENOISING VIA FRAME-TO-FRAME TRAINING](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ehret_Model-Blind_Video_Denoising_via_Frame-To-Frame_Training_CVPR_2019_paper.pdf)
 =========================================================================
 
 * Author    : EHRET Thibaud <ehret.thibaud@gmail.com>
@@ -39,7 +39,7 @@ The input sequence provided should already be a degraded grayscale sequence (the
 OPTICAL FLOW
 ------------
 
-The code used to compute the optical flow for the CVPR paper is provided in the tvl1flow folder. It's a modified version of "Javier Sánchez Pérez, Enric Meinhardt-Llopis, and Gabriele Facciolo, TV-L1 Optical Flow Estimation, Image Processing On Line, 3 (2013), pp. 137–150."
+The code used to compute the optical flow for the CVPR paper is provided in the tvl1flow folder. It's a modified version of ["Javier Sánchez Pérez, Enric Meinhardt-Llopis, and Gabriele Facciolo, TV-L1 Optical Flow Estimation, Image Processing On Line, 3 (2013), pp. 137–150."](http://www.ipol.im/pub/art/2013/26/)
 
 The code is compilable on Unix/Linux and hopefully on Mac OS (not tested!). 
 
