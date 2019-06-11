@@ -2,7 +2,7 @@ IMPLEMENTATION OF MODEL-BLIND VIDEO DENOISING VIA FRAME-TO-FRAME TRAINING
 =========================================================================
 
 * Author    : EHRET Thibaud <ehret.thibaud@gmail.com>
-* Licence   : GPL v3+, see gpl.txt
+* Licence   : AGPL v3+, see gpl.txt
 
 OVERVIEW
 --------
@@ -10,7 +10,7 @@ OVERVIEW
 This code is provided to reproduce the results from
  "Model-blind Video Denoising Via Frame-to-frame Training
 , T. Ehret, A. Davy, J.M. Morel, G. Facciolo, P. Arias, CVPR 2019".
-Plase cite it if you use this code as part of your research.
+Please cite it if you use this code as part of your research.
 
 USAGE
 -----
