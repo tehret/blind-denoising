@@ -2,7 +2,7 @@ IMPLEMENTATION OF [MODEL-BLIND VIDEO DENOISING VIA FRAME-TO-FRAME TRAINING](http
 =========================================================================
 
 * Author    : EHRET Thibaud <ehret.thibaud@gmail.com>
-* Licence   : AGPL v3+, see gpl.txt
+* Licence   : AGPL v3
 
 OVERVIEW
 --------
