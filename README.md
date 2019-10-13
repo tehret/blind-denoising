@@ -12,6 +12,8 @@ This code is provided to reproduce the results from
 , T. Ehret, A. Davy, J.M. Morel, G. Facciolo, P. Arias, CVPR 2019".
 Please cite it if you use this code as part of your research.
 
+The sequences used for the article can be found in https://github.com/cmla/derf-hd-dataset.
+
 USAGE
 -----
 
