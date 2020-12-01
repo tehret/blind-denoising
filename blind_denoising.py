@@ -49,7 +49,7 @@ class WarpedLoss(nn.Module):
     def warp(self, x, flo):
         """
         warp an image/tensor (im2) back to im1, according to the optical flow.
-        Code heavily inspired by
+        Code heavily inspired by PWC-Net
         x: [B, C, H, W] (im2)
         flo: [B, 2, H, W] flow
         """
